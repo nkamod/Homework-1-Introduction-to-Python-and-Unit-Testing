@@ -31,6 +31,10 @@ def insert_student_data(name, age) -> bool:
 
   age: int
     Age of the student
+
+  Returns:
+  bool
+    If insertion successful then true else false
   """
 
   try:
